@@ -4,3 +4,7 @@
 
   $ git clone [https://github.com/Maru-nn/prueba-2-reini.git]
   
+  $ cd repositorio-henry
+  
+  $ touch archivo-ejemplo.js
+    $ git status
